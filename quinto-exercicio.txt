@@ -1,0 +1,5 @@
+let Arraynames = [];
+let novoArray = Arraynames.filter((name)=>{
+    return name[0]=== name[0].toUpperCase()
+})
+

@@ -1,0 +1,1 @@
+console.log('teste node.js'.length - 1);
